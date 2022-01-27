@@ -1,3 +1,12 @@
+
+# My name is Juan Camilo Cifuentes
+
+**I like tech and golf**
+
+*I enjoy traveling*
+
+I'm also hungry right now :)
+
 ---
 layout: post
 title: "Welcome to Jekyll!"

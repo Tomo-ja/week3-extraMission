@@ -14,3 +14,10 @@ categories: jekyll update
 3.Workout
 4.Grabbing a drink
 5.Going outside
+
+
+##About me
+I was born and raised in Japan.
+Before I came here, I was working as a sales representative for a pneumatic company.
+
+I don't have background about web development.

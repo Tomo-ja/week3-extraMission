@@ -13,6 +13,5 @@ categories: jekyll update
 2.Travel
 3.Workout
 4.Grabbing a drink
-5.Going outside
 
 ![My logo](/logo.jpeg);

@@ -5,6 +5,11 @@ date:   2022-01-27 13:46:09 -0800
 categories: jekyll update
 ---
 
+<<<<<<< HEAD
+=======
+![My logo](/Yuto logo.jpeg)
+
+>>>>>>> main
 #I'm Yuto from Japan
 
 ##Interest
@@ -13,11 +18,5 @@ categories: jekyll update
 2.Travel
 3.Workout
 4.Grabbing a drink
-5.Going outside
 
-
-##About me
-I was born and raised in Japan.
-Before I came here, I was working as a sales representative for a pneumatic company.
-
-I don't have background about web development.
+![My logo](/logo.jpeg);

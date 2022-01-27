@@ -5,6 +5,8 @@ date:   2022-01-27 13:46:09 -0800
 categories: jekyll update
 ---
 
+![My logo](/Yuto logo.jpeg)
+
 #I'm Yuto from Japan
 
 ##Interest
@@ -15,6 +17,9 @@ categories: jekyll update
 4.Grabbing a drink
 5.Going outside
 
+I'm into basketball, have been playing and watching it since I was 13 and fan of a Toronto Raptors which is the only one NBA team based on Canada.
+
+Before this pandemic I used to go to U.S every year.
 
 ##About me
 I was born and raised in Japan.

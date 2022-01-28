@@ -5,6 +5,11 @@ date:   2022-01-27 13:46:09 -0800
 categories: jekyll update
 ---
 
+<<<<<<< HEAD
+=======
+![My logo](/Yuto logo.jpeg)
+
+>>>>>>> main
 #I'm Yuto from Japan
 
 ##Interest
@@ -13,4 +18,5 @@ categories: jekyll update
 2.Travel
 3.Workout
 4.Grabbing a drink
-5.Going outside
+
+![My logo](/logo.jpeg);
